@@ -3,8 +3,11 @@
   "description": "Base Level Extension",
   "version": "1.0",
   "manifest_version": 3,
+  "permissions": ["aiLanguageModelOriginTrial"]
+  "trial_tokens": ["Alxghkxlkx66l5QiRu2ZkaVF4g4SECLmHDA5eTTRWqz0GS88p3ZvAEXpvYxYa7gQJ7N0DOGOGS3eVJUkpYi+BAAAAAB4eyJvcmlnaW4iOiJjaHJvbWUtZXh0ZW5zaW9uOi8vYmJob2tkaWhsY2pqb2dwYmRwbWlnZWZiZm1ka25ubW8iLCJmZWF0dXJlIjoiQUlQcm9tcHRBUElGb3JFeHRlbnNpb24iLCJleHBpcnkiOjE3NjA0ODYzOTl9"],
   "action": {
     "default_popup": "hello.html",
     "default_icon": "hello_extensions.png"
+    
   }
 }
